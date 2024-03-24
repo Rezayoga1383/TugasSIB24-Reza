@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
     };
 
     try {
-      const response = await fetch('https://crudcrud.com/api/a86082286ed64a4db3b6c6b7d8de1e12/produk', {
+      const response = await fetch('https://crudcrud.com/api/a143550359a242de897efad339ba2ab4/produk', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
